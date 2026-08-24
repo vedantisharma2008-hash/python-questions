@@ -3,3 +3,7 @@
 # ```
 # print("hello",12,24.5)
 # ```
+# "hello",12,24.5
+
+# valid
+#  print("hello",12,24.5)
