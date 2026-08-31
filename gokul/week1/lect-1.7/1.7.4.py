@@ -10,3 +10,10 @@
     # print(type(l[1]))
 #     ```
 
+# <class 'list'>
+# 30
+# <class 'int'>
+# 10
+# <class 'str'>
+# 20.2
+# <class 'float'>

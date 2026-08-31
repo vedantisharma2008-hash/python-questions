@@ -30,3 +30,4 @@ print(bool(l))
 print(bool(m))
 
 
+# Non‑zero numbers, non‑empty strings, and non‑empty collections are True; zero, empty values, None, and False are False.

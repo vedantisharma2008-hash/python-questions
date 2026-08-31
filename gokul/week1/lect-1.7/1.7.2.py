@@ -6,3 +6,7 @@
 #     print(l[1])
 #     print(l[0])
 #     ```
+# A1=Not present
+# 2=30
+# 3=20
+# 4=10

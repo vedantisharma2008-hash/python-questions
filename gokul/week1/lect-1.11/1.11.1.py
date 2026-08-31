@@ -1,5 +1,5 @@
 # 1. what wil be the output?
-#     ```
+# #     ```
 # s='coffee'
 # t='bread'
 # print(s)
@@ -10,3 +10,7 @@
 # print(u*t)
 # print(3.2*"gokul")
 #     ```
+# cofee
+# bread
+# cofeebread
+# Error

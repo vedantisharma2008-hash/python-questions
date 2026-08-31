@@ -5,3 +5,4 @@
 #     n=input()
 #     print("Hello",n,"How is the weather in" ,n )
 #     ```
+# A-Whatever we will write will be considered.The earlier n will be overwritten
