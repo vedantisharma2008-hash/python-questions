@@ -7,3 +7,9 @@
 # print(n+2)
 # print(n+3)
 # ```
+# A-Enter a number:
+# If user enters 1
+# 1
+# 2
+# 3
+# 4
