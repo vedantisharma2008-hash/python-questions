@@ -3,6 +3,6 @@
 # LINE-1
 # print(a*2)
 
-a=input("Enter A name:")
-print(a*2)
-A-GokulGokul
+# a=input("Enter A name:")
+# print(a*2)
+# A-GokulGokul
