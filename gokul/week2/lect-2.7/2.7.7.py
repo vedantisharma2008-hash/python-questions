@@ -18,3 +18,9 @@ INPUT:
 OUTPUT:
     'wbyhhuc'
 '''
+s=input()
+k=int(input())
+result=""
+for ch in s:
+    result+=chr(ord(ch)+k)
+print(result)

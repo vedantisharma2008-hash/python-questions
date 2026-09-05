@@ -4,3 +4,5 @@
 and=24
 print(and+6)
 '''
+
+# error

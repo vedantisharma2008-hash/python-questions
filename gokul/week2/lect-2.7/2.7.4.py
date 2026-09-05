@@ -16,3 +16,8 @@ OUTPUT: 'bcdef'
 '''
 
 # solution:
+x=input()
+result=""
+for ch in x:
+    result+=chr(ord(ch)+1)
+print(result)
