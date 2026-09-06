@@ -15,3 +15,8 @@ elif marks<60:
 else:
     print("none")
 
+# A
+# B
+# C
+# D
+# none
